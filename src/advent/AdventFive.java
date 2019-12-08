@@ -1,5 +1,6 @@
+package advent;
 
-public class AdventFour {
+public class AdventFive {
 
 	public static void main(String[] args) {
 		int min = 284639;
